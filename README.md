@@ -1,4 +1,4 @@
-Yeah yes I have to say you just need to run that guess.py file in cmd then the game will be run 
+Yeah I have to say you just need to run that guess.py file in cmd then the game will be run 
 + First, this file does not contain malicious code 
 +Second, don't delete the Q table file, otherwise you won't be able to fight against AI 
 +Next I have given you the AI file if you need it 
