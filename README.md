@@ -4,4 +4,4 @@ Yeah I have to say you just need to run that guess.py file in cmd then the game 
 +Next I have given you the AI file if you need it 
 +IMPORTANT: you must download numpy to your computer for the game to run. It's all because of AI. Just go to terminal and type: pip install numpy
 + This program is written by AI
-                              -------------END-------------
+                              
